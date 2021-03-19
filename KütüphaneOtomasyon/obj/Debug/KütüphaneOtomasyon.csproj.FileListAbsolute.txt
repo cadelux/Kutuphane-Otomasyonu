@@ -1,0 +1,16 @@
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe.config
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.exe
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\bin\Debug\KütüphaneOtomasyon.pdb
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Form1.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Ogrenci.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Properties.Resources.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.exe
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.pdb
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.kitap.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Kitap_Alma_İşlemleri.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.Kitapiade.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.ögrencibilgi.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.kitapbilgi.resources
+C:\Users\Chief\source\repos\KütüphaneOtomasyon\KütüphaneOtomasyon\obj\Debug\KütüphaneOtomasyon.csprojAssemblyReference.cache
